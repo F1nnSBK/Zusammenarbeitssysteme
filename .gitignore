@@ -24,6 +24,7 @@
 *.nav
 *.snm
 *.vrb
+*.nlo
 
 # Editor backup files
 *~
@@ -38,6 +39,8 @@
 
 # MacOS metadata
 .DS_Store
+.vscode
+*.vscode/
 
 # TeXShop and TeXworks
 *.texpadtmp
